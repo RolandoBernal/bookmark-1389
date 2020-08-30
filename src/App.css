@@ -1,0 +1,68 @@
+:root {
+  --prim-color: #0c2340;
+  --sec-color: #4b92db;
+}
+
+html {
+  background-color: var(--prim-color);
+}
+
+.app {
+  text-align: center;
+  background-color: var(--prim-color);
+  min-height: 100vh;
+}
+
+.app-logo {
+  height: 10vmin;
+}
+
+.app-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  position: fixed;
+  top: -35px;
+  background-color: var(--prim-color);
+  color: white;
+  width: 100%;
+  z-index: 100;
+  padding-bottom: 20px;
+}
+
+.current-time {
+  /* position: fixed; */
+  /* top: -35px; */
+  /* font-size: 16px; */
+  /* background-color: var(--prim-color); */
+  color: whitesmoke;
+}
+
+.divider,
+.app-link {
+  color: var(--sec-color);
+}
+
+.app-link {
+  margin: 0 0 20px 0;
+}
+
+.app-footer {
+  padding-top: calc(10px + 2vmin);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 1vmin);
+  color: whitesmoke;
+}
+
+.bookmark-list-container {
+  margin-top: 150px;
+}
+
+.bookmark-list {
+  padding-top: 60px;
+}
