@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bookmark-1389/static/css/main.86b7fdf8.chunk.css",
-    "main.js": "/bookmark-1389/static/js/main.64368eb6.chunk.js",
-    "main.js.map": "/bookmark-1389/static/js/main.64368eb6.chunk.js.map",
+    "main.js": "/bookmark-1389/static/js/main.51ccd3b1.chunk.js",
+    "main.js.map": "/bookmark-1389/static/js/main.51ccd3b1.chunk.js.map",
     "runtime-main.js": "/bookmark-1389/static/js/runtime-main.b8c72f42.js",
     "runtime-main.js.map": "/bookmark-1389/static/js/runtime-main.b8c72f42.js.map",
     "static/js/2.4bd6b2e0.chunk.js": "/bookmark-1389/static/js/2.4bd6b2e0.chunk.js",
     "static/js/2.4bd6b2e0.chunk.js.map": "/bookmark-1389/static/js/2.4bd6b2e0.chunk.js.map",
     "index.html": "/bookmark-1389/index.html",
-    "precache-manifest.b46c58ada8f92d330d5004c2904b526c.js": "/bookmark-1389/precache-manifest.b46c58ada8f92d330d5004c2904b526c.js",
+    "precache-manifest.826fa7ff7f83b5cbd134b6edeed1cb39.js": "/bookmark-1389/precache-manifest.826fa7ff7f83b5cbd134b6edeed1cb39.js",
     "service-worker.js": "/bookmark-1389/service-worker.js",
     "static/css/main.86b7fdf8.chunk.css.map": "/bookmark-1389/static/css/main.86b7fdf8.chunk.css.map",
     "static/js/2.4bd6b2e0.chunk.js.LICENSE.txt": "/bookmark-1389/static/js/2.4bd6b2e0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b8c72f42.js",
     "static/js/2.4bd6b2e0.chunk.js",
     "static/css/main.86b7fdf8.chunk.css",
-    "static/js/main.64368eb6.chunk.js"
+    "static/js/main.51ccd3b1.chunk.js"
   ]
 }
